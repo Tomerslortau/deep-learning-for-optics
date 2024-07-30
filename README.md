@@ -1,4 +1,5 @@
 **Project Overview**
+
 This project aims to utilize deep learning techniques to diagnose faults in optical lens systems. By employing a neural network, the system can identify deviations in lens positioning and other issues that may arise during the assembly and calibration of optical systems. The goal is to enhance the efficiency and accuracy of optical system troubleshooting, reducing the time and cost associated with traditional methods.
 
 **Project Structure**
